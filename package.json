@@ -13,7 +13,7 @@
   "author": "Kevin Sawicki",
   "license": "MIT",
   "dependencies": {
-    "electron-download": "leo-lb/electron_npm",
+    "electron-download": "leo-lb/get#no-checksum",
     "extract-zip": "^1.6.5"
   },
   "devDependencies": {
